@@ -1,0 +1,28 @@
+@import url("https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css");
+
+.avatar_style img{
+    display: inline-block;
+    width:100px; height:100px;
+    box-sizing: 100px  content-box;
+    box-shadow: #900C3F;
+    transform: scale(1.05);
+  
+}
+.avatar_style:hover{
+    opacity: 0.7;
+  -webkit-transform:scale(1.15);
+  -moz-transform:scale(1.15);
+  -ms-transform:scale(1.15);
+  -o-transform:scale(1.15);
+  transform:scale(1.05);
+  box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+width:100px; height:100px;
+}
+.mainpage{ width:90%; height:100vh; margin:auto;}
+
+.mainpage h1 {margin:0; padding:20px 0; text-align:center;}
+
+.maindiv{width: 90%; height:100vh; margin:auto;}
+
+   
+
